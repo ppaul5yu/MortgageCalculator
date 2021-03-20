@@ -1,11 +1,9 @@
 # MortgageCalculator
 Mortgage Calculator Using Java Swing
 
-![q1](https://user-images.githubusercontent.com/46367703/111859411-1c7ae000-8917-11eb-873c-5e3384b907e9.png)
+![q1](https://user-images.githubusercontent.com/46367703/111859411-1c7ae000-8917-11eb-873c-5e3384b907e9.png) ![sample2](https://user-images.githubusercontent.com/46367703/111859890-7cbf5100-891a-11eb-890e-e38b8e2038ea.png)
 
 
-![q2](https://user-images.githubusercontent.com/46367703/111859414-1edd3a00-8917-11eb-8464-3059e376c255.png)
+![sample3](https://user-images.githubusercontent.com/46367703/111859893-7fba4180-891a-11eb-888d-3aeb14caa7ef.png)
 
-
-![q3](https://user-images.githubusercontent.com/46367703/111859417-20a6fd80-8917-11eb-904a-55e2f8d13ed5.png)
 
